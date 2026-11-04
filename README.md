@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi there 👋
+我是 Hai616422
+一名电子信息工程专业学生
 
-<!--
-**Hai616422/hai616422** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 在 GitHub 探索有意思的开源项目
+🌱 学习硬件、嵌入式，同时折腾 OpenWrt、前端相关工具
+⭐ 喜欢收集轻量化、实用的开源工具
 
-Here are some ideas to get you started:
+#### 🧩 感兴趣方向
+- 🛜 OpenWrt / LuCI
+- 🎨 开源图标库 & UI 设计（Lucide icons）
+- 📝 文本绘图、文档工具
+- 🔌 嵌入式、电子信息相关项目
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+持续学习，记录学习与折腾的笔记✨
